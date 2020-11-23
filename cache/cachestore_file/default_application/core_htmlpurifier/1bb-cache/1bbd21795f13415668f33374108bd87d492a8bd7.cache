@@ -1,0 +1,6 @@
+s:357:"<p>Vous pouvez saisir plusieurs termes comme critères et affiner votre recherche de la façon suivante :</p>
+
+<ul><li>terme : rechercher toutes les occurrences du terme dans le texte</li>
+<li>+terme : seules les correspondances exactes du terme (mot entier) seront trouvées</li>
+<li>-terme : ne pas inclure les résultats contenant ce terme</li>
+</ul>";
